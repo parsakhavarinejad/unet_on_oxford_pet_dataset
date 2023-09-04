@@ -1,4 +1,4 @@
-```markdown
+
 # U-Net on Oxford Pets III Dataset
 
 This project implements U-Net, a convolutional neural network architecture, on the Oxford Pets III dataset. U-Net is particularly effective for image segmentation tasks, which makes it suitable for tasks like pet object detection, instance segmentation, and more.
@@ -41,4 +41,4 @@ The model's accuracy is 81% in just 15 epochs. it can be improved significantly 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
 
-```
+
