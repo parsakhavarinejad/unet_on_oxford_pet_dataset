@@ -15,6 +15,8 @@ To view and interact with the notebook containing the U-Net implementation and e
 
 [Notebook File](unet-for-oxford-pet-dataset.ipynb)
 
+You can check out the model's architecture for u-net below this readme file, somehow it's available as an image file in this repository. (model.png) 
+
 ## Usage
 
 1. Clone the repository:
@@ -41,4 +43,6 @@ The model's accuracy is 81% in just 15 epochs. it can be improved significantly 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
 
+## Model's architecture
 
+![U-NET](model.png)
