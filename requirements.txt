@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+matplotlib==3.7.2
+numpy==1.24.3
+numpy==1.25.0
+opencv_python==4.8.0.76
+tensorflow==2.13.0
+tensorflow_datasets==4.9.2
+tensorflow_intel==2.13.0
