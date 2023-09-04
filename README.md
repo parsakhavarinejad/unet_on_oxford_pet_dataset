@@ -3,6 +3,8 @@
 
 This project implements U-Net, a convolutional neural network architecture, on the Oxford Pets III dataset. U-Net is particularly effective for image segmentation tasks, which makes it suitable for tasks like pet object detection, instance segmentation, and more.
 
+![UNET](unet_architecture.png)
+
 ## Dataset
 
 The Oxford Pets III dataset contains a large collection of images of various pet breeds with corresponding pixel-wise masks for object segmentation. It serves as a benchmark for various computer vision tasks.
