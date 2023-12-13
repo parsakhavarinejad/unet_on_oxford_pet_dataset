@@ -39,12 +39,8 @@ pip install -r requirements.txt
 
 ## Results
 
-The model's accuracy is 81% in just 15 epochs. it can be improved significantly with a better GPU and memory in more epochs.
+The model's accuracy is 81% in 15 epochs.
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
-
-## Model's architecture
-
-![U-NET](model.png)
